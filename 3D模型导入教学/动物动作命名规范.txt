@@ -1,0 +1,10 @@
+atk 攻击      atk2 攻击2
+dat 被击
+die 死亡
+free  休闲
+idle_loop  待机
+run_loop  移动
+sleep_loop  睡觉
+
+
+_loop  需要循环的动作的后缀
